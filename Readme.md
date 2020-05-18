@@ -15,7 +15,7 @@ An example of pybind11 for cv::Mat <-> np.array
 
 ## Generation with make
 
-clone pybind11
+clone pybind11 repository
 
 git clone https://github.com/pybind/pybind11.git
 
