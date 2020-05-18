@@ -1,0 +1,7 @@
+/media/minh/DATA/Study/code/deep2020/opencv/pybind11_opencv_numpy/build/CMakeFiles/install/strip.dir
+/media/minh/DATA/Study/code/deep2020/opencv/pybind11_opencv_numpy/build/CMakeFiles/install/local.dir
+/media/minh/DATA/Study/code/deep2020/opencv/pybind11_opencv_numpy/build/CMakeFiles/edit_cache.dir
+/media/minh/DATA/Study/code/deep2020/opencv/pybind11_opencv_numpy/build/CMakeFiles/example.dir
+/media/minh/DATA/Study/code/deep2020/opencv/pybind11_opencv_numpy/build/CMakeFiles/rebuild_cache.dir
+/media/minh/DATA/Study/code/deep2020/opencv/pybind11_opencv_numpy/build/CMakeFiles/list_install_components.dir
+/media/minh/DATA/Study/code/deep2020/opencv/pybind11_opencv_numpy/build/CMakeFiles/install.dir
