@@ -1,5 +1,6 @@
 # pybind11_opencv_numpy
 
+This repository is implemented to convert opencv c++ code to python.
 An example of pybind11 for cv::Mat <-> np.array
 
 ```bash
